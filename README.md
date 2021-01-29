@@ -1,2 +1,2 @@
 # GrozioPaslaugos.lt
-WEB puslapis. Praktika
+WEB puslapis. Grupinis darbas.
