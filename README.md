@@ -1,2 +1,2 @@
 # GrozioPaslaugos.lt
-WEB puslapis. Grupinis darbas.
+WEB puslapis. Grupinis darbas. PHP.CSS.
